@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\StackEx.exe
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\StackEx.deps.json
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\StackEx.runtimeconfig.json
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\StackEx.dll
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\ref\StackEx.dll
+D:\cat32tw\Desktop\StackEx\bin\Debug\net6.0\StackEx.pdb
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.AssemblyInfo.cs
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.dll
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\ref\StackEx.dll
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.pdb
+D:\cat32tw\Desktop\StackEx\obj\Debug\net6.0\StackEx.genruntimeconfig.cache
